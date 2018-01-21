@@ -1,6 +1,8 @@
 /Builds
 /JuceLibraryCode
 
+*.DS_Store
+
 # Prerequisites
 *.d
 
